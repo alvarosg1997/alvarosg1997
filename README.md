@@ -1,6 +1,6 @@
 # Álvaro Sánchez González - SRE / DevOps Junior
 
-![Profile Picture]([link-to-your-profile-picture](https://avatars.githubusercontent.com/u/177255275?v=4))
+![Profile Picture](https://avatars.githubusercontent.com/u/177255275?v=4)
 
 ## About Me
 
